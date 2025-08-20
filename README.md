@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 About Me
-- 🎓 Final year student in Computer Science  
+- 🎓 student in Computer Science  
 - 📱 Currently working on a **Flutter-based IoT project (Heart Guardian)**  
 - 🌍 Love to share knowledge & collaborate on open-source projects  
 - ⚡ Fun fact: I enjoy mixing Arabic & English in my daily notes 🤭  
@@ -22,14 +22,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=faten-hassan&show_icons=true&theme=radical)  
+![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatenhassen&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your-email@example.com  
-- 🐦 [Twitter / X](https://twitter.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/faten-hassan-321114336)  
+- 📧 Email: fatenh381@gmail.com  
+ 
 
 ---
 ✨ _“Code, Learn, Repeat!”_ ✨
