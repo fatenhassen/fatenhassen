@@ -1,26 +1,25 @@
-<!-- Header -->
 <!-- Header with waving hand gif -->
 <h1 align="center">
   Hi 👋, I'm Faten Hassan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 <h3 align="center">💻 Software Developer | Final Year CS Student | Flutter & IoT Enthusiast</h3>
 
 ---
 
-<!-- Coding Gif -->
+<!-- Coding Gif Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Final year **Computer Science** student  
-- 📱 Building **Heart Guardian** → a Flutter-based IoT project  
-- 🌍 Passionate about **open-source** and knowledge sharing  
+- 📱 Currently building **Heart Guardian** → a Flutter-based IoT project  
+- 🌍 Passionate about **Open Source** & knowledge sharing  
 - 🤝 Open to collaborations in **Flutter, IoT, and AI**  
-- ⚡ Fun fact: I love mixing Arabic & English in my daily notes 🤭  
+- ⚡ Fun fact: I love mixing Arabic & English in my notes 🤭  
 
 ---
 
@@ -42,8 +41,17 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatenhassen&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatenhassen&layout=compact&theme=tokyonight)
+![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatenhassen&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatenhassen&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+
+![snake gif](https://github.com/fatenhassen/fatenhassen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -61,24 +69,4 @@
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-![snake gif](https://github.com/fatenhassen/fatenhassen/blob/output/github-contribution-grid-snake.svg)
-
- 
-
-
-<!--
-**fatenhassen/fatenhassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *“Code. Learn. Inspire.”* ✨
