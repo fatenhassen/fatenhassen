@@ -1,6 +1,17 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Faten Hassan</h1>
+<!-- Header with waving hand gif -->
+<h1 align="center">
+  Hi 👋, I'm Faten Hassan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
 <h3 align="center">💻 Software Developer | Final Year CS Student | Flutter & IoT Enthusiast</h3>
+
+---
+
+<!-- Coding Gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
 
 ---
 
@@ -50,10 +61,11 @@
 
 ---
 
-✨ *“Code. Learn. Inspire.”* ✨
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+![snake gif](https://github.com/fatenhassen/fatenhassen/blob/output/github-contribution-grid-snake.svg)
 
----
-✨ _“Code, Learn, Repeat!”_ ✨
+ 
 
 
 <!--
