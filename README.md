@@ -1,35 +1,56 @@
-# 👋 Hi, I'm Faten Hassan  
-
-💻 A passionate **Software Developer** & **Final Year Student**.  
-🚀 Interested in **Flutter**, **IoT**, and **Machine Learning**.  
-✨ Always learning & building projects that make life easier.  
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Faten Hassan</h1>
+<h3 align="center">💻 Software Developer | Final Year CS Student | Flutter & IoT Enthusiast</h3>
 
 ---
 
-## 🌱 About Me
-- 🎓 student in Computer Science  
-- 📱 Currently working on a **Flutter-based IoT project (Heart Guardian)**  
-- 🌍 Love to share knowledge & collaborate on open-source projects  
-- ⚡ Fun fact: I enjoy mixing Arabic & English in my daily notes 🤭  
+## 🚀 About Me
+- 🎓 Final year **Computer Science** student  
+- 📱 Building **Heart Guardian** → a Flutter-based IoT project  
+- 🌍 Passionate about **open-source** and knowledge sharing  
+- 🤝 Open to collaborations in **Flutter, IoT, and AI**  
+- ⚡ Fun fact: I love mixing Arabic & English in my daily notes 🤭  
 
 ---
 
-## 🔧 Tech Stack
-- **Languages**: Dart, Java, Python, SQL  
-- **Frameworks**: Flutter, .NET  
-- **Tools**: GitHub, Android Studio, VS Code, Firebase  
+## 🛠 Tech Stack
+<div align="center">
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatenhassen&show_icons=true&theme=radical)  
+<div align="center">
+
+![Faten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatenhassen&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatenhassen&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/faten-hassan-321114336)  
-- 📧 Email: fatenh381@gmail.com  
- 
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/faten-hassan-321114336" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fatenh381@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *“Code. Learn. Inspire.”* ✨
 
 ---
 ✨ _“Code, Learn, Repeat!”_ ✨
